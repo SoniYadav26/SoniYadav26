@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/231944a8-c837-49f2-8cca-8023d43569c2)
 
 <h1 align="center">Hi 👋, I'm soni kumari</h1>
 <h3 align="center">Currently Pursuing BTech</h3>
