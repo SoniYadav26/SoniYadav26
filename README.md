@@ -8,24 +8,17 @@
 ---
 
 ### 💫 About Me
-- 🎓 **Education:** Pursuing B.Tech in Computer Science & Engineering (Class of 2027)[cite: 2]
-- 🔭 **Current Project:** Building a [Blockchain Based Health Insurance DApp](https://github.com/SoniYadav26/blockchain_health_insurance_dapp)[cite: 2]
-- 🤖 **GenAI & RAG:** Working on [RAG-AI Agents](https://github.com/SoniYadav26/Rag-AI-Agents) using LangChain & Vector Databases[cite: 2]
-- 🌱 **Currently Learning:** DevOps & CI/CD Pipelines, Docker, Kubernetes & System Design[cite: 2]
-- 💬 **Ask Me About:** Web3 & Blockchain, Data Analytics (Power BI & SQL), Full-Stack Web Development[cite: 2]
-- 📫 **How to reach me:** [kumarisoni37097@gmail.com](mailto:kumarisoni37097@gmail.com)[cite: 2]
-- ⚡ **Fun Fact:** *I spend 10% of my time writing code, 30% fixing bugs, and 60% trying to figure out why the code actually worked on the first try!*[cite: 2]
+- 🎓 **Education:** Pursuing B.Tech in Computer Science & Engineering (Class of 2027)
+- 🔭 **Current Project:** Building a [Blockchain Based Health Insurance DApp](https://github.com/SoniYadav26/blockchain_health_insurance_dapp)
+- 🤖 **GenAI & RAG:** Working on [RAG-AI Agents](https://github.com/SoniYadav26/Rag-AI-Agents) using LangChain & Vector Databases
+- 🌱 **Currently Learning:** DevOps & CI/CD Pipelines, Docker, Kubernetes & System Design.
+- 💬 **Ask Me About:** Web3 & Blockchain, Data Analytics (Power BI & SQL), Full-Stack Web Development
+- 📫 **How to reach me:** [kumarisoni37097@gmail.com](mailto:kumarisoni37097@gmail.com)
+- ⚡ **Fun Fact:** *I spend 10% of my time writing code, 30% fixing bugs, and 60% trying to figure out why the code actually worked on the first try!*
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=SoniYadav26&theme=onedark&column=6&margin-w=15&margin-h=15" alt="SoniYadav26 Trophies" />
-  </a>
-</p>
 
----
 
 ### 🛠️ Languages & Tech Stack
 
